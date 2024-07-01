@@ -1,1 +1,3 @@
-# cell-kubernetes-work
+# cell-kubernetes-work 
+
+to check user settings
